@@ -1,0 +1,8 @@
+- given and equalTo as well from Matchers to validate the response body after hitting
+I am testing the apps all the time, I am a tester, I use java/selenium to automate
+My name is Binka
+am using rest assured for api test automation - by importing the static classes
+scenario based test cases
+the frame work design pattern is page object model and i can use BDD as well for 
+the http calls
+the web apps and use testng for unit testing and maven is the build tool
